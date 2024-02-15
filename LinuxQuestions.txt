@@ -1,0 +1,21 @@
+1) What is soft link in linux?
+A:  A soft link is similar to the file shortcut feature which is used in Windows Operating systems. Each soft linked file contains a separate Inode value that points to the original file. 
+    As similar to hard links, any changes to the data in either file is reflected in the other. Soft links can be linked across different file systems, although if the original file is deleted or moved,
+    the soft linked file will not work correctly (called hanging link).
+    ls -l command shows all links with first column value l? and the link points to original file.
+    Soft Link contains the path for original file and not the contents.
+    Removing soft link doesn’t affect anything but removing original file, the link becomes “dangling” link which points to nonexistent file.
+    A soft link can link to a directory.
+    The size of the soft link is equal to the length of the path of the original file we gave. 
+    E.g if we link a file like ln -s /tmp/hello.txt /tmp/link.txt then the size of the file will be 14bytes which is equal to the length of the “/tmp/hello.txt”.
+    If we change the name of the original file then all the soft links for that file become dangling i.e. they are worthless now.
+    Link across file systems: If you want to link files across the file systems, you can only use symlinks/soft links.
+    Command to create a Soft link is: $ ln  -s [original filename] [link name] 
+
+2) How to check RAM memory in linux?
+A:  $grep MemTotal /proc/meminfo
+    or
+    $free
+
+3) What is TCPDUMP in Linux?
+A: 
