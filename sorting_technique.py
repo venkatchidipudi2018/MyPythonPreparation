@@ -8,6 +8,6 @@ def sorting_tech(arr):
 arr = [5,8,65,1,0,2,47,35,2]
 sorting_tech(arr)
 print(arr)
-
-v = sorted(arr)
-print (v)
+# or
+# v = sorted(arr)
+# print (v)
