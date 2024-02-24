@@ -24,3 +24,33 @@ HIL testing can validate the firmware's behavior in a controlled environment bef
 Real-time Testing: Real-time testing is important for embedded systems that have strict timing requirements or are part of a real-time application. 
 It involves verifying that the firmware meets timing constraints, deadlines, and real-time responsiveness. Techniques such as deterministic testing,
 latency measurement, and performance profiling can be used to evaluate the real-time behavior of the system.
+
+PROTOCOL VS API VS FIRMWARE:
+---------------------------
+Firmware is basically a software program for a specific hardware. For example, Bios.
+Here, firmware is a program that runs the IOT device. That can be java or python or C depending on the platform (ATMEGA, Raspberry pi, beaglebone etc) you are using. This is the program that is firing up the IOT device, communicating with sensors (if there are sensors attached), and other process required according to the application.
+
+The protocol for communication is defined in the firmware.
+
+Protocol: In this context, protocol is how the communication takes places between the IOT device and the cloud, or the communication between the devices.
+Bluetooth is a protocol.
+
+Protocols popularly used for IOT applications:
+Zigbee, RFID, LORAWAN : These are for communication between devices.
+
+mqtt, http: These are for communication between device and could server.
+
+You need to use protocol based on the application requirement.
+
+API: APIs are basically services that are made available by third parties.
+(In this case) Companies like IBM, Google and many others have released there APIs for IOT.
+There are several APIs available for devices, gateways and applications.
+What it does?
+Mainly for IOT, APIs are used for the connection between the device and the cloud server. So the protocol for communication is defined here.
+
+Using an API is easier for securely registering an IOT device with the cloud server and for communication. Further, for the data captured by an IOT device there are services available for data analytics, security, image processing etc etc. For example, IBM watson.
+
+In short:
+Firmware is the software program in the device.
+Protocol is the way the communication is happening between the devices and the cloud server.
+API is the service that you need to use for the entire IOT application.
