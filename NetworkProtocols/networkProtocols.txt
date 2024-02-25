@@ -1,0 +1,7 @@
+Network management protocols – These protocols set out policies designed to monitor, manage and maintain a network. Examples include SNMP, FTP, POP3 and Telnet.
+Network communication protocols – A group of protocols used to establish rules and formatting (such as syntax, synchronization and semantics) for exchanging data across a network. 
+  Types of network communication protocols include TCP, UDP, IP, HTTP, IRC, BGP and ARP.
+Network security protocols – Security protocols are protocols that use security measures such as cryptography and encryption to protect data. Examples include SFTP, SSL and HTTPS.
+
+
+https://www.forbes.com/advisor/business/types-network-protocols/
