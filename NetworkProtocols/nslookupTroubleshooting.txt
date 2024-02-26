@@ -1,0 +1,15 @@
+Check DNS settings
+Open the Command Prompt, type ipconfig /all, and press Enter. Look for the DNS Servers entry.
+If the correct DNS servers aren't listed, check the DNS settings in the Network and Sharing Center.
+
+Identify DNS configuration issues
+Use the nslookup command to identify DNS configuration issues, network connectivity problems, and routing issues.
+
+Check if the DNS server is responding
+Use the nslookup command to verify that a specific DNS server is responding to queries.
+
+Check if the DNS is resolving
+Run the nslookup or ping alternative command from the terminal based on your OS and terminal. If the DNS isn't resolving, use a public DNS. 
+
+
+>nslookup google.com
