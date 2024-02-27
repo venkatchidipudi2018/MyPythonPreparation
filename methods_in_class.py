@@ -26,3 +26,5 @@ person = Person.from_birth_year("Alice", 1999)
 
 # Call a static method
 print(Person.is_adult(25))
+
+#https://www.educative.io/answers/different-types-of-methods-that-can-be-defined-in-a-python-class
