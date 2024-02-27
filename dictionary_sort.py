@@ -11,3 +11,14 @@ a = [
 
 a.sort(key=lambda x: x["date"])
 print (a)
+
+
+#Sorting of dictionary values
+
+d = {"a":10,
+    "b":5,
+    "c":99,
+    "d":1}
+
+k = sorted(d.items(), key=lambda x:x[1])
+print(k)
