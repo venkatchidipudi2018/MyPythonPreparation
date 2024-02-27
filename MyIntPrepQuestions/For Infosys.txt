@@ -1,0 +1,43 @@
+For Infosys:
+------------
+
+Required Skills:
+ü Minimum 8+ years of experience in pure Python Development
+ü Strong in OOPS concepts
+ü Good Knowledge on Data frames, NumPy, Pandas
+ü Strong in handling connections to Databases, networking devices using right protocols.
+ü Experienced in Integrating with Networking devices using Python.
+ü Strong communication skills and should be able to work with client independently.
+ü Strong grip on overall project flow, architecture, and design
+ü Strong knowledge on Memory Management
+ü Good Knowledge on Python libraries
+ü Different Datatypes used and comparisons along with good hold on Slicing & Sorting concepts.
+ü Knowledge on Time Complexity
+ü Knowledge on Data Serialization packages
+
+Good to have:
+• Extensive development experience in Python programming
+• Experience on network monitoring tools.
+• Experience in software architecture, system design & development.
+• Networking fundamentals (CCNA preferred)
+
+Interview Questions:
+--------------------
+OOPS and Method overloading and Overriding in python
+Numpy operations, Dataframes and Pandas
+
+Database connections like SQLlite3, Pyodbc, PyMongo
+What cursor object do exactly after connected to databases
+How netwrok automation performed in python
+What is the packages/libraries are using for network automation
+How paramiko, Netmiko and pexpect works and why three libraries and what is the properties for that
+How python memory management happens
+How garbage collectors work in python
+Time complexity of the execution in python
+What is the time complexity in python List and Dictionary
+List out all the libraries you have used for your development and automation
+Why list comprehension and dictionary comprehension in python
+Lambda functions
+How Networking protocols works
+Networking monitoring tools
+Once network failure happens, how can we trouble shoot

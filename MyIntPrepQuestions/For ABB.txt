@@ -1,0 +1,50 @@
+For ABB:
+--------
+- Product based development projects - Drives / VFD / PLC / Power Electronics domain knowledge.
+ - Test Automation domain on Embedded projects handling device FW / Product SW / System
+ - Cyber Security expertise in Industrial Automation projects / products.
+- Knowledge of IEC - 62443 Standards.
+
+
+Software skills/Testing Skills
+
+Specific Skill Set : 
+
+• Good Proficiency in the Test Automation using C++/ C# / Python / Robo Framework.
+• Good understanding of Configuration management, Code Repositiory, Requirements management, Code Management, CI/CD and different testing phases including Release testing.
+• Good understanding of Test Automation Strategy and Process.(Any Testing certification will have added advantage)
+• Good Proficiency in Network Security Basics.
+• Good understanding of Industrial Protocols.
+• Good understanding of Security Risk Assessment and System Design.
+• Expereience on Industrial Automation and Control Systems Security Program.
+
+
+Any Managerial Skills
+
+ - Understanging SCRUM way of working
+- Able to work in teams.
+- Attitude to take initiative and work independently towards the goal
+- ISTQB Certification
+- Certifications in CISSP/CISM/CRISC/PMP/COBIT/TOGAF a plus.
+
+
+Interview Questions:
+--------------------
+What is the driver inbetween the software and Hardware
+How FW devices will be automated 
+How testing and integration done on FW devices
+What is the usage of Integration in Software
+How security handled in software and hardware systems
+How FW updates happens and expalin about the procedures
+How UDP and TCP rotocols works and communications
+How security testing performed on FW and Software
+Once security breach happened what is the next approach
+Once network failure happens, how can we trouble shoot
+What is Industrial automation, how pentesting can be performed on that
+Knowledge of IEC - 62443 Standards
+Configuration management tools, code management tools, CI/CD tools
+What is the testing phases and how will take the decision on test automation
+What is the Network Security Basics.
+What is the Industrial Protocols.
+What is the Security Risk Assessment and System Design.
+What is the Industrial Automation and Control Systems Security Program.

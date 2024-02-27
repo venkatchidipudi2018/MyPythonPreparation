@@ -1,0 +1,18 @@
+For Benison:
+-------------
+
+Types of Class methods in oops of python
+How to access the different type of class methods
+How to do dictionary sorting
+split the string without slicing based on spaces
+how to check the ram in linux
+pytest and explain about pytest fixtures
+explain the difference between the tcp vs udp protocols
+advantages and disadvantages of the robot frame work
+how to create custom modules in robot frame work
+explain about selenium grid and usages
+explain about robotframewotk ***settings*** for library and resouce
+explain about implicit and explicit waits and time.sleep
+tcp handshake
+
+

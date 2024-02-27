@@ -1,0 +1,7 @@
+For HCL:
+---------
+
+Soft link and hard links in linux
+Command to Find the file sizes in linux
+File operations
+Lambda functions and OOps concepts
